@@ -205,7 +205,6 @@ This doesn't affect cube nudging. When the bomb explodes like this, it does not 
 	"ID"        "PACK_BEE2_NOPAINT_CATAPULT_SIGN"
 	"Config"
 		{
-		"File"  "materials/BEE2/no_paint/signage_arrow_world.vmt"
 		"File"  "materials/BEE2/no_paint/signage_catapult1_world.vmt"
 		"File"  "materials/BEE2/no_paint/signage_catapult2_world.vmt"
 		}
