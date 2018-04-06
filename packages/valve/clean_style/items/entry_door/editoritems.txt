@@ -87,8 +87,8 @@
 			{
 				"Name"				"instances/BEE2/clean/elevator_sp/door_entrance_up.vmf"
 			}
-			"frame_vert_up_white" "instances/BEE2/clean/elevator_sp/door_entrance_up_white.vmf"
-			"frame_vert_up_black" "instances/BEE2/clean/elevator_sp/door_entrance_up_black.vmf"
+			"frame_vert_up_white"  ""
+			"frame_vert_up_black"  ""
 			
 			"vert_down"
 			{
